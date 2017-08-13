@@ -1,7 +1,7 @@
 # DZ_2_1
 
 Домашнее задание 2, задание  1
-!(https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/1.jpg)
+! (https://github.com/nataliiatantsiura/DZ_2_1/blob/master/1.jpg)
 
 Домашнее задание 2, задание  2
 !(https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/2.jpg)
